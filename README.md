@@ -6,26 +6,13 @@ Welcome to the Codsoft Web Developer Internship repository! 🚀
 
 This repository contains the tasks assigned to me during my internship at Codsoft. Each task is listed in its respective directory along with all the necessary files.
 
-### Task 1: Responsive Website Design
+### Task 1:  soon be updatd ?
 - **Description:** Create a responsive landing page for Codsoft's new product.
 - **Files:**
   - `index.html`
   - `style.css`
   - `script.js`
 
-### Task 2: Database Integration
-- **Description:** Integrate a database to store user information securely.
-- **Files:**
-  - `db_setup.sql`
-  - `server.js`
-  - `models/user.js`
-
-### Task 3: Implementing API Endpoints
-- **Description:** Develop RESTful API endpoints for user authentication.
-- **Files:**
-  - `routes/auth.js`
-  - `controllers/authController.js`
-  - `tests/auth.test.js`
 
 ## Instructions
 1. Clone the repository to your local machine using `git clone [repository_url]`.
